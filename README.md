@@ -49,6 +49,7 @@ Generates efficient Long CoT data by distilling knowledge from large models.
 | Method Name | Description | Paper Link |
 |-------------|-------------|------------|
 | Distill O1 | Uses distillation techniques to generate Long CoT data | [O1 Journey](https://github.com/GAIR-NLP/O1-Journey#about-the-team)|
+| Distill QwQ | Uses distillation techniques to generate Long CoT data | [RedStar](https://arxiv.org/pdf/2501.11284)|
 
 ---
 
