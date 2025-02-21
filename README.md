@@ -1,3 +1,11 @@
+<h1 align="center">
+📝 Awesome Long-CoT Data
+</h1>
+<div align="center">
+
+[![Awesome](https://awesome.re/badge.svg)](https://awesome.re) ![Stars](https://img.shields.io/github/stars/awesome-dpo/Awesome-DPO-Papers?color=yellow&labelColor=555555) 
+</div>
+
 # Long CoT Data Generation Methods Survey
 
 This project aims to summarize and survey various methods for generating Long CoT (Chain-of-Thought) data. Long CoT data plays a crucial role in complex task reasoning, multi-step problem-solving, and related fields. Below is an overview of the main methods, accompanied by tables for adding relevant paper links.
