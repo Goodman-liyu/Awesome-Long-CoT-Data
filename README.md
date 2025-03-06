@@ -15,8 +15,11 @@ This project aims to summarize and survey various methods for generating Long Co
 ## Method Categories
 
 ### 1. **Prompt Engineering (PE) & Short CoT Composition for Long CoT**
+* **2024.01** "The Impact of Reasoning Step Length on Large Language Models". [[Paper]](https://aclanthology.org/2024.findings-acl.108.pdf)
+* * **2025.01** "KIMI K1.5:SCALING REINFORCEMENT LEARNING WITH LLMS". [[Paper]](https://arxiv.org/pdf/2501.12599v1)
 * **2025.02** "Self-rewarding correction for mathematical reasoning". [[Paper]](https://arxiv.org/abs/2502.19613)
-* **2025.01** "KIMI K1.5:SCALING REINFORCEMENT LEARNING WITH LLMS". [[Paper]](https://arxiv.org/pdf/2501.12599v1)
+
+
 ---
 
 ### 2. **Feedback & Critique LLM Regeneration**
