@@ -15,7 +15,7 @@ This project aims to summarize and survey various methods for generating Long Co
 ## Method Categories
 
 ### 1. **Prompt Engineering (PE) & Short CoT Composition for Long CoT**
-
+* **2025.02** "Self-rewarding correction for mathematical reasoning". [[Paper]](https://arxiv.org/abs/2502.19613)
 ---
 
 ### 2. **Feedback & Critique LLM Regeneration**
