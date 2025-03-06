@@ -24,7 +24,7 @@ This project aims to summarize and survey various methods for generating Long Co
 ---
 
 ### 2. **Feedback & Critique LLM Regeneration**
-* **2023.05** "SELF-REFINE:Iterative Refinement with Self-Feedback". [[Paper]](https://arxiv.org/abs/2303.17651)
+* **2023.05** "SELF-REFINE: Iterative Refinement with Self-Feedback". [[Paper]](https://arxiv.org/abs/2303.17651)
 ---
 
 ### 3. **RL-Based Deepseek Approach**
