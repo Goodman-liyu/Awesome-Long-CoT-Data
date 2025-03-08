@@ -41,6 +41,9 @@ This project aims to summarize and survey various methods for generating Long Co
 ---
 
 ### 3. **RL-Based Deepseek Approach**
+* **2024.01** "ReFT: Reasoning with Reinforced Fine-Tuning" [[Paper]](https://arxiv.org/abs/2401.08967)[[Code]](https://github.com/lqtrung1998/mwp_ReFT)
+* **2024.12** "Offline Reinforcement Learning for LLM Multi-Step Reasoning
+"[[Paper]](https://arxiv.org/abs/2412.16145)[[Code]](https://github.com/jwhj/OREO)
 * **2025.01** "DeepSeek-R1: Incentivizing Reasoning Capability in LLMs via Reinforcement Learning"[[Paper]](https://arxiv.org/abs/2501.12948)[[Code]](https://github.com/deepseek-ai/DeepSeek-R1)
 * **2025.01** "7B Model and 8K Examples: Emerging Reasoning with Reinforcement Learning is Both Effective and Efficient". [[Paper]](https://hkust-nlp.notion.site/simplerl-reason)[[Code]](https://github.com/hkust-nlp/simpleRL-reason)
 * **2025.01** "Open-R1: a fully open reproduction of DeepSeek-R1". [[Paper]](https://huggingface.co/blog/open-r1)[[Code]](https://github.com/huggingface/open-r1)
@@ -49,6 +52,7 @@ This project aims to summarize and survey various methods for generating Long Co
 * **2025.02** "Demystifying Long Chain-of-Thought Reasoning in LLMs". [[Paper]](https://arxiv.org/abs/2502.03373)[[Code]](https://github.com/eddycmu/demystify-long-cot)
 * **2025.02** "DeepScaleR: Surpassing O1-Preview with a 1.5B Model by Scaling RL". [[Paper]](https://pretty-radio-b75.notion.site/DeepScaleR-Surpassing-O1-Preview-with-a-1-5B-Model-by-Scaling-RL-19681902c1468005bed8ca303013a4e2)[[Code]](https://github.com/agentica-project/deepscaler)
 * **2025.02** "Logic-RL: Unleashing LLM Reasoning with Rule-Based Reinforcement Learning". [[Paper]](https://arxiv.org/abs/2502.14768)[[Code]](https://github.com/Unakar/Logic-RL)
+* **2025.02** "LIMR: Less is More for RL Scaling". [[Paper]](https://arxiv.org/pdf/2502.11886)[[Code]](https://github.com/GAIR-NLP/LIMR)
 * **2025.03** "QwQ-32B: Embracing the Power of Reinforcement Learning". [[Paper]](https://qwenlm.github.io/blog/qwq-32b/)
 
 ---
