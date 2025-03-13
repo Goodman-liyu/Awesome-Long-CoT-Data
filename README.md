@@ -62,6 +62,7 @@ This project aims to summarize and survey various methods for generating Long Co
 * **2024.12** "B-STaR: Monitoring and Balancing Exploration and Exploitation in Self-Taught Reasoners". [[Paper]](https://arxiv.org/abs/2412.17256)
 * **2025.01** "RedStar: Does Scaling Long-CoT Data Unlock Better Slow-Reasoning Systems?". [[Paper]](https://arxiv.org/pdf/2501.11284)
 * **2025.02** "Critique Fine-Tuning: Learning to Critique is More Effective than Learning to Imitate". [[Paper]](https://arxiv.org/abs/2501.17703)
+* **2025.03** "Towards Widening The Distillation Bottleneck for Reasoning Models". [[Paper]](https://arxiv.org/abs/2503.01461)
 
 ---
 
