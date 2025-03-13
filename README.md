@@ -66,9 +66,5 @@ This project aims to summarize and survey various methods for generating Long Co
 
 ---
 
-### 5. **Annotation**
-
----
-
 ## License
 This project is licensed under the [MIT License](LICENSE).
