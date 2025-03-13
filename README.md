@@ -4,8 +4,8 @@
 <div align="center">
 
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re) 
-![Stars](https://img.shields.io/github/stars/Goodman-liyu/Awesome-Long-CoT-Data?color=yellow&labelColor=555555) 
 ![Updated](https://img.shields.io/badge/Updated-July_2024-blue)
+![Stars](https://img.shields.io/github/stars/Goodman-liyu/Awesome-Long-CoT-Data?color=yellow&labelColor=555555)
 </div>
 
 <div align="center">
