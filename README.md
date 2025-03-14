@@ -14,6 +14,10 @@
   <a href="#license">License</a>
 </div>
 
+<p align="center">
+  <img src="long_cot.webp" width="512">
+</p>
+
 ---
 
 ## 📚 Overview
