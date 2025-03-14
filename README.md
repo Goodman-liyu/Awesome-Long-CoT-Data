@@ -23,7 +23,7 @@ A curated collection of resources for generating Long Chain-of-Thought (CoT) dat
 
 ### 1. **Prompt Engineering & Composition**
 🛠️ _Combining short CoT sequences into longer reasoning chains_
-* **2023.05** "Plan-and-Solve Prompting: Improving Zero-Shot Chain-of-Thought Reasoning by Large Language Models". [[Paper]](https://arxiv.org/abs/2305.04091)
+* `2023.05` "Plan-and-Solve Prompting: Improving Zero-Shot Chain-of-Thought Reasoning by Large Language Models". [[Paper]](https://arxiv.org/abs/2305.04091)
 * **2023.05** "LogiCoT: Logical Chain-of-Thought Instruction Tuning". [[Paper]](https://arxiv.org/abs/2305.12147)
 * **2023.10** "Answering Questions by Meta-Reasoning over Multiple Chains of Thought". [[Paper]](https://aclanthology.org/2023.emnlp-main.364.pdf)
 * **2024.01** "The Impact of Reasoning Step Length on Large Language Models". [[Paper]](https://aclanthology.org/2024.findings-acl.108.pdf)
