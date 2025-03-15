@@ -77,7 +77,7 @@ A curated collection of resources for generating Long Chain-of-Thought (CoT) dat
 * `2025.01` "RedStar: Does Scaling Long-CoT Data Unlock Better Slow-Reasoning Systems?". [[Paper]](https://arxiv.org/pdf/2501.11284)  
 * `2025.02` "Critique Fine-Tuning: Learning to Critique is More Effective than Learning to Imitate". [[Paper]](https://arxiv.org/abs/2501.17703)  
 * `2025.03` "Towards Widening The Distillation Bottleneck for Reasoning Models". [[Paper]](https://arxiv.org/abs/2503.01461)
-* `2025.03` "s1: Simple test-time scalings1: Simple test-time scaling" [[Paper]](https://arxiv.org/pdf/2501.19393)
+* `2025.03` "s1: Simple test-time scaling" [[Paper]](https://arxiv.org/pdf/2501.19393)
 
 ------
 
