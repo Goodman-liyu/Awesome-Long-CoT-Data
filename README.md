@@ -39,6 +39,7 @@ A curated collection of resources for generating Long Chain-of-Thought (CoT) dat
 * `2025.02` "BOLT: Bootstrap Long Chain-of-Thought in Language Models without Distillation". [[Paper]](https://arxiv.org/abs/2502.03860)
 * `2025.02` "Enhancing Auto-regressive Chain-of-Thought through Loop-Aligned Reasoning". [[Paper]](https://arxiv.org/abs/2502.08482)
 * `2025.03` "START: Self-taught Reasoner with Tools". [[Paper]](https://arxiv.org/abs/2503.04625)
+* `2025.03` "PROMPTCOT: Synthesizing Olympiad-level Problems for Mathematical". [[Paper]](https://arxiv.org/pdf/2503.02324)
 
 ---
 
