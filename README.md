@@ -50,6 +50,7 @@ A curated collection of resources for generating Long Chain-of-Thought (CoT) dat
 * `2024.05` "Large Language Models Can Self-Correct with Key Condition Verification". [[Paper]](https://arxiv.org/abs/2405.14092v3)[[Code]](https://github.com/wzy6642/ProCo)  
 * `2024.07` "DotaMath: Decomposition of Thought with Code Assistance and Self-correction for Mathematical Reasoning". [[Paper]](https://arxiv.org/abs/2407.04078)[[Code]](https://github.com/ChengpengLi1003/DotaMath)  
 * `2024.11` "Enhancing LLM Reasoning via Critique Models with Test-Time and Training-Time Supervision". [[Paper]](https://arxiv.org/abs/2411.16579)[[Code]](https://github.com/WooooDyy/MathCritique)
+* `2025.03` "Cognitive behaviors that enable self-improving reasoners, or, four habits of highly effective stars". [[Paper]](https://arxiv.org/pdf/2503.01307)
 
 ---
 
