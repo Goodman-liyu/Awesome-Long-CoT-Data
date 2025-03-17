@@ -31,7 +31,8 @@ A curated collection of resources for generating Long Chain-of-Thought (CoT) dat
 * `2023.05` "LogiCoT: Logical Chain-of-Thought Instruction Tuning". [[Paper]](https://arxiv.org/abs/2305.12147)
 * `2023.10` "Answering Questions by Meta-Reasoning over Multiple Chains of Thought". [[Paper]](https://aclanthology.org/2023.emnlp-main.364.pdf)
 * `2024.01` "The Impact of Reasoning Step Length on Large Language Models". [[Paper]](https://aclanthology.org/2024.findings-acl.108.pdf)
-* `2024.07` "Fine-Tuning with Divergent Chains of Thought Boosts Reasoning Through Self-Correction in Language Models". [[Paper]](https://arxiv.org/abs/2407.03181)[](https://arxiv.org/abs/2407.03181)[[Code]](https://github.com/UKPLab/arxiv2024-divergent-cot)
+* `2024.02` "Brain-Inspired Two-Stage Approach: Enhancing Mathematical Reasoning by Imitating Human Thought Processes". [[Paper]](https://arxiv.org/abs/2403.00800)
+* `2024.07` "Fine-Tuning with Divergent Chains of Thought Boosts Reasoning Through Self-Correction in Language Models". [[Paper]](https://arxiv.org/abs/2407.03181)[[Code]](https://github.com/UKPLab/arxiv2024-divergent-cot)
 * `2024.09` "O1 Replication Journey: A Strategic Progress Report – Part 1". [[Paper]](https://arxiv.org/pdf/2410.18982)
 * `2025.01` "KIMI K1.5:SCALING REINFORCEMENT LEARNING WITH LLMS". [[Paper]](https://arxiv.org/pdf/2501.12599v1)]
 * `2025.02` "Self-rewarding correction for mathematical reasoning". [[Paper]](https://arxiv.org/abs/2502.19613)
