@@ -40,12 +40,14 @@ Each section will curate papers, datasets, code implementations, and case studie
 * `2024.02` "Brain-Inspired Two-Stage Approach: Enhancing Mathematical Reasoning by Imitating Human Thought Processes". [[Paper]](https://arxiv.org/abs/2403.00800)
 * `2024.07` "Fine-Tuning with Divergent Chains of Thought Boosts Reasoning Through Self-Correction in Language Models". [[Paper]](https://arxiv.org/abs/2407.03181)[[Code]](https://github.com/UKPLab/arxiv2024-divergent-cot)
 * `2024.09` "O1 Replication Journey: A Strategic Progress Report – Part 1". [[Paper]](https://arxiv.org/pdf/2410.18982)
-* `2025.01` "KIMI K1.5:SCALING REINFORCEMENT LEARNING WITH LLMS". [[Paper]](https://arxiv.org/pdf/2501.12599v1)]
+* `2025.01` "KIMI K1.5:SCALING REINFORCEMENT LEARNING WITH LLMS". [[Paper]](https://arxiv.org/pdf/2501.12599v1)
+* `2025.01` "rStar-Math: Small LLMs Can Master Math Reasoning with Self-Evolved Deep Thinking". [[Paper]](https://arxiv.org/abs/2501.04519)
 * `2025.02` "Self-rewarding correction for mathematical reasoning". [[Paper]](https://arxiv.org/abs/2502.19613)
 * `2025.02` "BOLT: Bootstrap Long Chain-of-Thought in Language Models without Distillation". [[Paper]](https://arxiv.org/abs/2502.03860)
 * `2025.02` "Enhancing Auto-regressive Chain-of-Thought through Loop-Aligned Reasoning". [[Paper]](https://arxiv.org/abs/2502.08482)
 * `2025.03` "START: Self-taught Reasoner with Tools". [[Paper]](https://arxiv.org/abs/2503.04625)
 * `2025.03` "PROMPTCOT: Synthesizing Olympiad-level Problems for Mathematical". [[Paper]](https://arxiv.org/pdf/2503.02324)
+* `2025.03` "Self-Evolved Preference Optimization for Enhancing Mathematical Reasoning in Small Language Models". [[Paper]](https://arxiv.org/abs/2503.04813)
 
 ---
 
