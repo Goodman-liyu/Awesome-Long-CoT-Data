@@ -75,6 +75,7 @@ Each section will curate papers, datasets, code implementations, and case studie
 * `2025.02` "Logic-RL: Unleashing LLM Reasoning with Rule-Based Reinforcement Learning". [[Paper]](https://arxiv.org/abs/2502.14768)[[Code]](https://github.com/Unakar/Logic-RL)  
 * `2025.02` "LIMR: Less is More for RL Scaling". [[Paper]](https://arxiv.org/pdf/2502.11886)[[Code]](https://github.com/GAIR-NLP/LIMR)  
 * `2025.03` "QwQ-32B: Embracing the Power of Reinforcement Learning". [[Paper]](https://qwenlm.github.io/blog/qwq-32b/)
+* `2025.03` "DAPO: an Open-Source LLM Reinforcement Learning System at Scale". [[Paper]](https://dapo-sia.github.io/static/pdf/dapo_paper.pdf)[[Code]](https://github.com/volcengine/verl/tree/gm-tyx/puffin/main/recipe/dapo)[[Data]](https://huggingface.co/datasets/BytedTsinghua-SIA/DAPO-Math-17k)
 
 ---
 
