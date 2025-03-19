@@ -61,6 +61,7 @@ Each section will curate papers, datasets, code implementations, and case studie
 * `2024.11` "Enhancing LLM Reasoning via Critique Models with Test-Time and Training-Time Supervision". [[Paper]](https://arxiv.org/abs/2411.16579)[[Code]](https://github.com/WooooDyy/MathCritique)
 * `2025.02` "FastMCTS: A Simple Sampling Strategy for Data Synthesis". [[Paper]](https://www.arxiv.org/pdf/2502.11476)
 * `2025.03` "Cognitive behaviors that enable self-improving reasoners, or, four habits of highly effective stars". [[Paper]](https://arxiv.org/pdf/2503.01307)
+* `2025.03` "Towards Widening The Distillation Bottleneck for Reasoning Models". [[Paper]](https://arxiv.org/abs/2503.01461)
 
 ---
 
