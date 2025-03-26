@@ -90,6 +90,8 @@ Each section will curate papers, datasets, code implementations, and case studie
 * `2025.03` "Towards Widening The Distillation Bottleneck for Reasoning Models". [[Paper]](https://arxiv.org/abs/2503.01461)
 * `2025.03` "s1: Simple test-time scaling" [[Paper]](https://arxiv.org/pdf/2501.19393)
 * `2025.03` "Deconstructing Long Chain-of-Thought: A Structured Reasoning Optimization Framework for Long CoT Distillation" [[Paper]](https://arxiv.org/abs/2503.16385)
+* `2025.03` "1.4 Million Open-Source Distilled Reasoning Dataset to Empower
+Large Language Model Training". [[Paper]](https://arxiv.org/pdf/2503.19633)[[Data]](https://huggingface.co/datasets/a-m-team/AM-DeepSeek-R1-Distilled-1.4M)
 
 ------
 
